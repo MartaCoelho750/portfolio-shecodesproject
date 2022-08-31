@@ -62,6 +62,11 @@ h6 {
     color: var(--secondary-color)
 }
 
+.git {
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+
 .insta {
     color: antiquewhite;
     width: 50px;
