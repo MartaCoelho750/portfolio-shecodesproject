@@ -156,6 +156,12 @@ h6 {
     transition: box-shadow 0.15s ease-in-out;
 }
 
+.legend {
+    text-align: center;
+    font-family: 'Roboto';
+    padding-left: 20%;
+
+}
 
 @media (max-width: 575.98px) {
     .header {
