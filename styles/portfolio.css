@@ -163,8 +163,24 @@ h6 {
 
 }
 
+.email-link {
+    display: flex;
+    justify-content: center;
+    color: var(--primary-color);
+    font-size: 28px;
+    text-decoration: none;
+}
+
+.email-link:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 575.98px) {
     .header {
         margin-top: 50%;
+    }
+
+    .email-link {
+        font-size: 15px
     }
 }
