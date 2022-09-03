@@ -175,6 +175,15 @@ h6 {
     text-decoration: underline;
 }
 
+#up {
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto';
+    align-content: right;
+    position: relative;
+}
+
+
 @media (max-width: 575.98px) {
     .header {
         margin-top: 50%;
